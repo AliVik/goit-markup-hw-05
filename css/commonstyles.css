@@ -49,7 +49,6 @@ ul {
 .header-padd {
   padding-top: 24px;
   padding-bottom: 25px;
-  overflow: hidden;
 }
 .navigation-list .current {
   position: relative;
